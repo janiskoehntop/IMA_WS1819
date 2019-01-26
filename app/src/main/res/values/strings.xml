@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IMA_WS18/19</string>
+    <string name="maintitle"> Wohin?</string>
+    <string name="maincity"> Stadt</string>
+    <string name="mainzipcode"> PLZ</string>
+    <string name="mainsearch"> Suche</string>
+</resources>
